@@ -1,0 +1,94 @@
+[
+     {
+        "name": "vayne_idle",
+        "textures": [
+			"vayne_0",
+			"vayne_1"
+		],
+        "times": [
+			15,
+			15
+		]
+    },
+     {
+        "name": "vayne_tumble",
+        "textures": [
+			"vayne_tumble_0",
+			"vayne_tumble_1",
+			"vayne_tumble_2",
+			"vayne_tumble_3",
+			"vayne_tumble_4",
+			"vayne_tumble_5"
+		],
+        "times": [
+			3,
+			3,
+			3,
+			3,
+			3,
+			3
+		]
+    },
+     {
+        "name": "thresh_idle",
+        "textures": [
+			"thresh_0",
+			"thresh_1"
+		],
+        "times": [
+			15,
+			15
+		]
+    },
+     {
+        "name": "thresh_hook",
+        "textures": [
+			"thresh_2"
+		],
+        "times": [
+			5
+		]
+    },
+     {
+        "name": "leesin_idle",
+        "textures": [
+			"leesin_0",
+			"leesin_1"
+		],
+        "times": [
+			10,
+			10
+		]
+    },
+     {
+        "name": "leesin_jump",
+        "textures": [
+			"leesin_2",
+			"leesin_3"
+		],
+        "times": [
+			8,
+			8
+		]
+    },
+     {
+        "name": "jinx_idle",
+        "textures": [
+			"jinx_0",
+			"jinx_1"
+		],
+        "times": [
+			10,
+			10
+		]
+    },
+     {
+        "name": "jinx_shot",
+        "textures": [
+			"jinx_2"
+		],
+        "times": [
+			8
+		]
+    }
+]
